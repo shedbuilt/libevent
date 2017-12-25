@@ -1,0 +1,5 @@
+NAME=libevent
+VERSION=2.1.8
+REVISION=1
+SRC=https://github.com/libevent/libevent/releases/download/release-2.1.8-stable/libevent-2.1.8-stable.tar.gz
+SRCMD5=f3eeaed018542963b7d2416ef1135ecc
